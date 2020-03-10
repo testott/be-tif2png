@@ -4,7 +4,7 @@ import os
 from glob import glob
 
 
-print("tif2png v1.1.0\n//////////////")
+print("tif2png v1.1.1\n//////////////\nWARNING: DELETES OLD TIF FILE ONCE CONVERTED\n//////////////")
 
 while True:
   mode = input("Subfolders mode? (Y/N):")
